@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kevin.</h1>
+<h1 align="center">Hello, I'm Kevin.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ###
 <br clear="both">
