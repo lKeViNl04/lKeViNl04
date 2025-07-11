@@ -1,23 +1,29 @@
-<h1 align="center">Hello, I'm Kevin.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hello, I'm Kevin.</h1>
 
 ###
-<div>
-  <br clear="both">
-  <img align="right" height="400" src="https://i.postimg.cc/50C6dmJf/dog-happy.gif"  />
-  <div>
-    <div align="left">
-      <img src="https://streak-stats.demolab.com?user=lKeViNl04&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&order=3" height="250" alt="streak graph"  />
-    </div>
-    <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lKeViNl04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="250" alt="languages graph"  />
-    </div>
-    <br clear="both">
-  </div>
+
+<br clear="both">
+
+<img align="right" height="400" src="https://i.postimg.cc/50C6dmJf/dog-happy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=lKeViNl04&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&order=3" height="" alt="streak graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lKeViNl04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="250" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lKeViNl04&radius=16&theme=redical&area=true&order=5&hide_border=true&line=50C878&area_color=50C878&point=FFA500&color=50C878&title_color=FFA500" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lKeViNl04&radius=16&theme=redical&area=true&order=5&hide_border=true&line=50C878&area_color=50C878&point=FFA500&color=50C878&title_color=FFA500" height="" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -42,6 +48,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
 ###
