@@ -1,25 +1,18 @@
 <h1 align="center">Hello, I'm Kevin.</h1>
 
 ###
+<br clear="both">
+<div align="center">
+	<img align="right" height="350" src="https://i.postimg.cc/50C6dmJf/dog-happy.gif"  />
+	<div align="left">
+  	<img src="https://streak-stats.demolab.com?user=lKeViNl04&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+	</div>
+	<div align="left">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lKeViNl04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="400" alt="languages graph"  />
+	</div>
+</div>
 
 <br clear="both">
-
-<img align="right" height="400" src="https://i.postimg.cc/50C6dmJf/dog-happy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=lKeViNl04&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&order=3" height="" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lKeViNl04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="250" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
