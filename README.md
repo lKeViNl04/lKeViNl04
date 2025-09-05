@@ -1,13 +1,15 @@
+
 <h1 align="center">Hello, I'm Kevin.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ###
+
 <br clear="both">
 <div>       
-        <div align="left">
-	<img align="left" height="300" src="https://i.postimg.cc/50C6dmJf/dog-happy.gif" alt="gift" />
-        </div>
+    <div align="left">
+		<img align="left" height="300" src="https://i.postimg.cc/50C6dmJf/dog-happy.gif" alt="gift" />
+    </div>
 	<div align="center">
-  	<img src="https://streak-stats.demolab.com?user=lKeViNl04&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"/>
+  		<img src="https://streak-stats.demolab.com?user=lKeViNl04&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"/>
 	</div>
 	<div align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lKeViNl04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="400" alt="languages graph"  />
@@ -48,11 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -71,11 +69,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
 </div>
 
 ###
 
-<h2 align="left">Code editor</h2>
+<h2 align="left">Development Tools</h2>
 
 ###
 
@@ -85,6 +85,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -106,3 +108,5 @@
 </div>
 
 ###
+
+![](https://komarev.com/ghpvc/?username=lKeViNl04&label=Views&color=brightgreen)
